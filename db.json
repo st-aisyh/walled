@@ -1,0 +1,31 @@
+{
+    "posts": [
+      { "id": "1", "title": "a title", "views": 100 },
+      { "id": "2", "title": "another title", "views": 200 }
+    ],
+    "comments": [
+      { "id": "1", "text": "a comment about post 1", "postId": "1" },
+      { "id": "2", "text": "another comment about post 1", "postId": "1" }
+    ],
+    "profile": {
+      "name": "typicode"
+    },
+    "users": [
+        {
+            "fullName": "Anita Carolina",
+            "username": "Anita",
+            "password": "12345",
+            "email": "anita@gmail.com",
+            "balance": 50000,
+            "avatar": "https://cdn1-production-images-kly.akamaized.net/e37bEJaPpsxSCCuMiQEfHJfcfR0=/180x0:1178x998/1200x1200/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2838349/original/060671600_1561603979-marissa_anita-20190626-007-bambang.jpg"
+        }, 
+        {
+          "fullName": "Siti Aisyah",
+          "username": "Aisyah",
+          "password": "12345",
+          "email": "staisyah735@gmail.com",
+          "balance": 10000000000,
+          "avatar": "https://cdn1-production-images-kly.akamaized.net/e37bEJaPpsxSCCuMiQEfHJfcfR0=/180x0:1178x998/1200x1200/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2838349/original/060671600_1561603979-marissa_anita-20190626-007-bambang.jpg"
+      }
+    ]
+  }
